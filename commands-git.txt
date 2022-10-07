@@ -7,3 +7,8 @@ git commit -m “nom du commit”
 git push 
 
 - Les commandes de pull 
+git status 
+git fecth 
+git status
+git pull
+
