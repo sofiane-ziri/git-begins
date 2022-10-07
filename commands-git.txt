@@ -12,3 +12,7 @@ git fecth
 git status
 git pull
 
+- Les commandes de branch 
+git branch
+git branch "nom de la branch"
+git checkout
